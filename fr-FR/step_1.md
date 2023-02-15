@@ -1,7 +1,7 @@
-Check that all you inputs, outputs, and wires have a good connection. Even some that were working originally may have come loose as you crafted your device.
+Vérifie que toutes tes entrées, sorties et câbles ont une bonne connexion. Même certains qui fonctionnaient à l'origine peuvent s'être détachés lorsque tu as conçu ton appareil.
 
-Check that the pins in your code match the pins your LED is connected to. If you removed your pins to craft your device you need to check they have been reconnected as they were originally.
+Vérifie que les broches de ton code correspondent aux broches auxquelles ta LED est connectée. Si tu as retiré tes broches pour fabriquer ton appareil, tu dois vérifier qu'elles ont été reconnectées comme elles l'étaient à l'origine.
 
-If your component has polarity, positive (+) and negative (-) sides, make sure they are connected the right way round.
+Si ton composant a une polarité, des côtés positifs (+) et négatifs (-), assure-toi qu'ils sont connectés dans le bon sens.
 
-If you have checked everything and you are still not seeing or hearing the result you expect then try using a new electronic component if you have some spare. This will ensure that your current electronic component is not broken. 
+Si tu as tout vérifié et que tu ne vois ou n'entends toujours pas le résultat que tu attends, essaye d'utiliser un nouveau composant électronique si tu en as de rechange. Cela garantira que ton composant électronique actuel n'est pas cassé. 
