@@ -1,7 +1,7 @@
-Check that all you inputs, outputs, and wires have a good connection. Even some that were working originally may have come loose as you crafted your device.
+Controleer dat al je inputs, outputs en draden een goede verbinding hebben. Zelfs sommige die oorspronkelijk werkten, zijn mogelijk losgeraakt tijdens het maken van je apparaat.
 
-Check that the pins in your code match the pins your LED is connected to. If you removed your pins to craft your device you need to check they have been reconnected as they were originally.
+Controleer of de pinnen in je code overeenkomen met de pinnen waarop je LED is aangesloten. Als je je pinnen hebt verwijderd om je apparaat te maken, moet je controleren of ze opnieuw zijn aangesloten zoals ze oorspronkelijk waren.
 
-If your component has polarity, positive (+) and negative (-) sides, make sure they are connected the right way round.
+Als je component polariteit, positieve (+) en negatieve (-) zijden heeft, zorg er dan voor dat ze aan de juiste kant zijn aangesloten.
 
-If you have checked everything and you are still not seeing or hearing the result you expect then try using a new electronic component if you have some spare. This will ensure that your current electronic component is not broken. 
+Als je alles hebt gecontroleerd en je het resultaat nog steeds niet ziet of hoort, probeer dan een nieuw elektronisch onderdeel te gebruiken als je nog wat over hebt. Zo kan je controleren of je huidig onderdeel niet kapot is. 
